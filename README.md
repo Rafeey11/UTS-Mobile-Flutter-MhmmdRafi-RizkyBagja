@@ -28,9 +28,9 @@ Aplikasi ini memiliki 3 halaman utama dengan alur navigasi (*routing*) yang dina
 * **Manajemen State:** Stateful Widget (Local State)
 
 ## 📱 Screenshot Aplikasi
-![RideRoster](assets/images/Login.png.png)
+![RideRoster](assets/images/Login.png)
 ![RideRoster](assets/images/Dashboard.png)
-![RideRoster](assets/images/Profile.png.png)
+![RideRoster](assets/images/Profile.png)
 
 ### Menjalankan Aplikasi
 Pilih salah satu metode di bawah ini sesuai dengan kebutuhan Anda:
