@@ -28,3 +28,25 @@ Aplikasi ini memiliki 3 halaman utama dengan alur navigasi (*routing*) yang dina
 * **Manajemen State:** Stateful Widget (Local State)
 
 ## 📱 Screenshot Aplikasi
+![RideRoster](assets/images/Login.png.png)
+![RideRoster](assets/images/Dashboard.png)
+![RideRoster](assets/images/Profile.png.png)
+
+### Menjalankan Aplikasi
+Pilih salah satu metode di bawah ini sesuai dengan kebutuhan Anda:
+
+*   **Melalui Terminal:**
+    ```bash
+    flutter run
+    ```
+
+*   **Melalui VS Code:**
+    1.  Buka proyek di VS Code.
+    2.  Tekan `F5` atau klik menu **Run > Start Debugging**.
+    3.  Pilih perangkat emulator atau perangkat fisik yang terhubung.
+
+*   **Menjalankan di Web:**
+    Karena proyek Anda memiliki folder `web`, Anda juga bisa menjalankannya di browser:
+    ```bash
+    flutter run -d chrome
+    ```
